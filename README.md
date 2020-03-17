@@ -10,7 +10,9 @@ For more information, please visit the PPSSPP forum thread : (todo)
 ## How to install
 Download the repository as .zip then extract it to /ppsspp/memstick/PSP/TEXTURES/(gameID)
 
-The GameID is the unique ID each PlayStation games have, for WipEout Pure the textures pack supports :
+The GameID is the unique ID each PlayStation games have, it is composed of 9 characters.
+
+For WipEout Pure the textures pack supports the following:
 ```
 UCES00001 : (Europe)
 UCUS98612 : (USA)
