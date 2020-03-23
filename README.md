@@ -5,10 +5,10 @@ For use with PPSSPP (PlayStation Portable Simulator Suitable for Playing Portabl
 ## Description :
 A basic high-resolution texture pack which enhances the User-Interface of WipEout Pure.
 
-For more information, please visit the PPSSPP forum thread : (todo)
+For more information, please visit the PPSSPP forum thread : https://forums.ppsspp.org/showthread.php?tid=26291
 
 ## How to install
-Download the repository as .zip then extract it to /ppsspp/memstick/PSP/TEXTURES/(gameid)
+Download the repository as .zip then extract it to **/ppsspp/memstick/PSP/TEXTURES/***(gameid)*
 
 Make sure you have enabled **Replace textures** in *Settings > Options > Developer tools* ; you can also go in *Control mapping* to map a button for **Texture replacement**, a useful shortcut for comparing with or without texture pack.
 
