@@ -1,7 +1,10 @@
-# WipEout Pure HD Textures Project
+# WipEout Pure HD Texture Pack
 An Unofficial FX300 Anti-Gravity Racing League High-Resolution Textures Project for WipEout Pure.
 
-For use with PPSSPP (PlayStation Portable Simulator Suitable for Playing Portably).
+For use with PPSSPP.
+
+Official PPSSPP website : https://ppsspp.org/index.html
+
 ## Description :
 A basic high-resolution texture pack which enhances the User-Interface of WipEout Pure.
 
